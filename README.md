@@ -5,8 +5,8 @@ Built using FastAPI, SQLAlchemy, and JWT authentication.
 
 Clone the Project
 ```
-git clone https://github.com/your-username/attendance-management-system.git
-cd attendance-management-system
+git clone project
+cd FastAPI---Attendance-Management-System
 ```
 
 Create and Activate Virtual Environment
