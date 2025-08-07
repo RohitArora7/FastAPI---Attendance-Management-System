@@ -1,6 +1,6 @@
 ASM
 
-Attendance Management System (FastAPI)
+Attendance Management System (FastAPI).
 Built using FastAPI, SQLAlchemy, and JWT authentication.
 
 Clone the Project
@@ -49,7 +49,7 @@ Secure APIs with token-based access
 
 
 
-USER REGISTGRATION
+USER REGISTRATION
 <img width="1739" height="526" alt="Register" src="https://github.com/user-attachments/assets/5ea51864-fdcc-46d4-8a26-1852875b5a91" />
 
 ACCESS TOKEN
