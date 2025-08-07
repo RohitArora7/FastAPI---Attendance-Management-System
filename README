@@ -1,12 +1,13 @@
 ASM
 
-
 Attendance Management System (FastAPI)
 A lightweight and scalable backend for managing attendance, built using FastAPI, SQLAlchemy, and JWT authentication.
 
 Clone the Project
-```git clone https://github.com/your-username/attendance-management-system.git
-cd attendance-management-system```
+```
+git clone https://github.com/your-username/attendance-management-system.git
+cd attendance-management-system
+```
 
 Create and Activate Virtual Environment
 ```python3 -m venv attendance
