@@ -27,8 +27,8 @@ pip install sqlalchemy pydantic
 # Authentication
 pip install email-validator
 pip install python-jose[cryptography] passlib[bcrypt]
-pip install python-multipart```
- ```
+pip install python-multipart
+```
 OR
 ```
 pip install -r requirements.txt
