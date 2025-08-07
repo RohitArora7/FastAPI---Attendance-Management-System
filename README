@@ -24,13 +24,17 @@ pip install sqlalchemy pydantic
 pip install email-validator
 pip install python-jose[cryptography] passlib[bcrypt]
 pip install python-multipart```
+ 
+OR
+
+```pip install -r requirements.txt```
 
 Run the Server
 ```uvicorn main:app --reload ```
 
 
 FEATURES
-Features
+
 User Authentication (JWT)
 User Registration
 User Records
